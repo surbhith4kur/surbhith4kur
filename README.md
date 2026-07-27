@@ -120,9 +120,9 @@ Email............ surbhith4kur@gmail.com
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=C"/>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=C++"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
