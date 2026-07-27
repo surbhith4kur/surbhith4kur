@@ -90,3 +90,4 @@ Languages...... Python, Java, C++, C
 Hobbies....... AI, ML, Cybersecurity
 Email....... surbhith4kur@gmail.com
 ```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhith4kur&show_icons=true&theme=tokyonight)
