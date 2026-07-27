@@ -1,58 +1,87 @@
+<h1 align="center">Hi 👋, I'm Surbhi Kumari</h1>
+
+<h3 align="center">AI Builder | Cybersecurity Enthusiast | Machine Learning Learner</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+Builder+%7C+Cybersecurity+Enthusiast;Machine+Learning+Learner;Always+Learning+Something+New..." />
+</p>
+
+---
+
 ```text
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^~~!7?JYYJ7!~^^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^~7JY5PPPPPPPPPP5J7~^^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^!?YPPPPPPPPPPPPPPPPPP5J!^^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^7J5PPPPPPPPPPPPPPPPPPPPPPPY!^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^~^7Y5PPPPGGPPPPPPPPPPPGPPPPPPPPPY~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^:~Y5PPPPPGGPPPPPPPPPPPPPGPPPPPPPPPP?^^^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^7PPP5YY5PBGGPPPPPPPPPPPPPBPPPPPPPPPGY^^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~:::^~5GY?7?YJ?7?Y5PGGGPPPPPPPPPGBPPPPPPPPPG5^::^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~^.:?5J7?YG#&&#G5J??J5PGGGPPPPPPPGBPPPPPPPPPGP~:^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~^^^^^^^^~~^~J?7JG#&&&&&#&&&#PY?7JYPGGGPPPPPGBPPPPPPPPPGG!^~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~^^^^^^^~~^7?7JG&&&#BGGGGGBB&&&#GY??J5GGGGGGPGBPGGGGGGGGGG!^~^~~^^^^^^~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~^::::^:::^:^?7?G&&&#GP55555PPPJ7YB&&#PY??YPGGGGGGBGGGGGGGGGGB!^~~~::^^^:^~~~~~~~~~~~~~~~
-~~~~~~~~~~~~^^^^:^::::^J7J#&&BP5Y55Y5P5J!^::^~JP#&&B5??YPGGGGGGGGGGGGGGGBG~~~~^:^^^:~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~^~~~~^J7J#&&B5YY555P5?~::::::::~75B&&#PJ?YGGGGBGGGGGGGGGGB5:^^::~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~^^~~^?7?#&&#555P5G#Y^..::::::::.:!5&#&&#PJJ5GGGBGGGGGGBBBGB7:^::^^^^~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~^~~^^^^~~J!G&&&GY5GGB5YGG?^::::::::7PBG?!5##&#PJYPGGBGGGGBBBBBBG::::^^^^~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~^^^^7??#&&&G5PB#P~^!JGB?.::::.7B5!!!??G#B#&BYJPGBBGBBBBBBBBG::::^:~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~^^^77J#&&&PPGB#BPPGGPPJ:::::::^~PB##5JPBGB##YYPBBBBBBBBB#G~::^^^~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~^::::~??#&&&PPBB&B77G##GP!:::::::7G5#BJ?YYBB##GYYGBBBBBBB#5^:^:^~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~^:::::?7P&&&GPB##GJY5PPYY^::::::::?55PPP5YPBB#B5YGGBBBBBG?::::::~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~^^~~^~~??G&&BPPB&P~J55J7^::::::::::^7JYYY?7B#&#55BBBBB##J::::::^^^~~^^~~~~~~~~~~~~~~~
-~~~~~~~~~~~~^^~^:^^:^:~??P##PPP&B7!JJ!..::J5~.::::.:!J55?JB#&G5BBBB#####G~:^:^~~~~~~^~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~^^^^!?YGGG5B&#57^:....:~:.....::^!?J5##&#PB####BBBBB#P~::^~~^^~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~^^^^^::::::::^!?GBBG#&&&#GPJ?!~~!~~!7?J5PG#&#B##B###BBGGGGGGGBB?.^~^^~~~~~~~~~~~~~~~~~~~
-~~~~~~^~~~~~^:^~^^^^^^^^^^^^7B&BB#&#&GG&&&#P###&B&&&&&#BGB##BBGGGGGGGGGGGGGBJ:^^^~^~~~~~~~~~~~~~~~~~
-~~~~~~^J77777777777??????7??^G#BG##??BGPB##J#&&55&&GBBBBB#BBGGBBBGGGGGGBBBGGB?:~~~~~~~~~~~~~~~~~~~~~
-~~~~~~^??77777????????????J?7~YJ7!~~YYPP5BGJPPG?GGB5Y#BGGGBGPPGGBBBBBGGB#BGGGB!::^~~~~~~~~~~~~~~~~~~
-~~~~~~~^J7?????????????JJJJJJ!.:.:!JY5GGPGYY?^JJ5?!7?GGBB#GY55PGGGGBBBB##BGGGBG^:^~~~~~~~~~~~~~~~~~~
-~~~~~~~^7J??????????JJJJJJJYYJ^~7JYJY5B#GBY55J5JJJ7?Y5BBBBP5PGBBGGBB####BBGBBGB5^~~~~~~~~~~~~~~~~~~~
-~~~~~~~~^J????JJJJJJJJJJJJYYYY7?YY5555G##BYJ7?5YJJ5555GB5Y5GBBBBGGBB###BBBBBBBBB~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~^!YJJJJJJJJJJJJJYYYYYYJ!?5Y5BBGB#B5PP5P5GGPPYYYY5PPBBBBBBGBB###BBBBBBB#J^~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~:?JJJJJJJYYYYYYYYYYYYYJ7PBGPB####BBGB#GPPG#G5PGPPGGBBBB#B##&&##BBBBBBG^~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~:^YYYYYYYYYYYYYYYYYY555?P##B###BG5YY555BBG#&BPG#GPGB######&&&&##BBBB#P^^~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~^75YYYYYYYYYYYYY555555Y?GBBBBP557?J7!~7G#&&#GG#BGBBB#&&&&&&&&&&#####BPJ^^^~~~~~~~~~~~~~~~~
-~~~~~~~~~~~^YGGGGGGGGGGGGGGGGGGGGP55PPGPBGPPG5555G&##BB#######&#################G??7^~^~~~~~~~~~~~~~
-~~~~~~!JJJJPG&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&#&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&#GGGP?JJJJ?~~~~~~
-~~~~~~~~~!!JYJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJYYY?!!!~~~~~~~~~
-~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+   ███████╗██╗   ██╗██████╗ ██████╗ ██╗  ██╗██╗
+   ██╔════╝██║   ██║██╔══██╗██╔══██╗██║  ██║██║
+   ███████╗██║   ██║██████╔╝██████╔╝███████║██║
+   ╚════██║██║   ██║██╔══██╗██╔══██╗██╔══██║██║
+   ███████║╚██████╔╝██║  ██║██████╔╝██║  ██║██║
+   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝
 
-OS...... Windows 11
-Uptime...... 18, 1 month
-Kernel...... MiraiAI B.Tech Student
-Languages...... Python, Java, C++, C
-Hobbies....... AI, ML, Cybersecurity
-Email....... surbhith4kur@gmail.com
+──────────────────────────────────────────────────────────────
+
+OS............... Windows 11
+Kernel........... MirAI AI Builder Track
+Role............. Student Developer
+Languages........ Python, Java, C++
+Learning......... AI, Machine Learning, Cybersecurity
+IDE.............. VS Code
+Tools............ Git, GitHub, Linux
+Interests........ Ethical Hacking, AI Research
+Email............ surbhith4kur@gmail.com
+
+Status........... Online
 ```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surbhith4kur&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=surbhith4kur&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💻 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/surbhith4kur">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:surbhith4kur@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+"Code. Learn. Build. Repeat."
+
+</p>
