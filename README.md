@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Surbhi Kumari</h1>
+<h1 align="center">Hi, I'm Surbhi.</h1>
 
-<h3 align="center">AI Builder | Cybersecurity Enthusiast | Machine Learning Learner</h3>
+<h3 align="center">Cyber Security Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+Builder+%7C+Cybersecurity+Enthusiast;Machine+Learning+Learner;Always+Learning+Something+New..." />
@@ -95,21 +95,16 @@
 ──────────────────────────────────────────────────────────────
 
 OS............... Windows 11
-Kernel........... MirAI AI Builder Track
-Role............. Student Developer
+Kernel........... MirAI AI B.Tech Student
 Languages........ Python, Java, C++
-Learning......... AI, Machine Learning, Cybersecurity
-IDE.............. VS Code
-Tools............ Git, GitHub, Linux
-Interests........ Ethical Hacking, AI Research
+Learning......... Cybersecurity, Programming
+Hobbies......... Painting, AI
 Email............ surbhith4kur@gmail.com
-
-Status........... Online
 ```
 
 ---
 
-## 🔥 GitHub Activity
+## GitHub Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=surbhith4kur&theme=tokyonight&hide_border=true"/>
@@ -117,7 +112,7 @@ Status........... Online
 
 ---
 
-## 💻 Languages & Tools
+## Languages & Tools
 
 <p align="center">
 
@@ -139,7 +134,7 @@ Status........... Online
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
@@ -157,6 +152,6 @@ Status........... Online
 
 <p align="center">
 
-"Code. Learn. Build. Repeat."
+Keep Hacking
 
 </p>
